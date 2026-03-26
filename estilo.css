@@ -8,7 +8,11 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
+<<<<<<< HEAD
     background-color: #ff00ee;
+=======
+    background-color: #f0f0f0;
+>>>>>>> 70ffe24ef47820240d1d7b75373d1fa49f074e19
     margin: 0;
     font-family: Arial,sans-serif;
 }
